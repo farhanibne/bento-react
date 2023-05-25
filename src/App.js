@@ -38,13 +38,13 @@ import j from "./assets/sushi-4.png";
 
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCUMpJ2nBBqKVjVJ-Jgi9ZbslpVtLf5M_8",
-  authDomain: "getabento.firebaseapp.com",
-  projectId: "getabento",
-  storageBucket: "getabento.appspot.com",
-  messagingSenderId: "387687588208",
-  appId: "1:387687588208:web:ba99c6aeb0b780acafefb5",
-  measurementId: "G-1GXG39EFS1"
+  apiKey: "better have give your code ",
+  authDomain: "better have give your code ",
+  projectId: "better have give your code ",
+  storageBucket: "better have give your code ",
+  messagingSenderId: "better have give your code ",
+  appId: "better have give your code ",
+  measurementId: "better have give your code "
 });
 
 
