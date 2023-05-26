@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import './App.css';
 import './js/script.js'
 
+
 import "./sections/hero.css"
 import "./sections/about.css"
 import "./sections/header.css"
