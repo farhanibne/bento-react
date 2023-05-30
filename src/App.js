@@ -6,6 +6,7 @@ import './js/script.js'
 
 
 import "./sections/hero.css"
+
 import "./sections/about.css"
 import "./sections/header.css"
 import "./sections/footer.css"
